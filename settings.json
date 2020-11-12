@@ -1,0 +1,56 @@
+{
+    "terminal.integrated.shell.linux": "/usr/bin/fish",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "FiraCode Nerd Font Mono, Retina",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "all",
+    "editor.cursorStyle": "line-thin",
+    "editor.wordWrap": "on",
+    "editor.columnSelection": false,
+    "editor.mouseWheelZoom": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.rulers": [
+        80
+    ],
+    "window.zoomLevel": 1,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": false,
+    "zenMode.hideActivityBar": false,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "editor.tabCompletion": "on",
+    "python.languageServer": "Pylance",
+    "workbench.startupEditor": "newUntitledFile",
+    "python.autoComplete.extraPaths": [
+        "/home/sandee/.virtualenvs/social_computing/lib/python3.8/site-packages/snap_stanford-5.0.0_dev_pop_os20.04_x64_py3.8-py3.8.egg/snap.py"
+    ],
+    "vsicons.dontShowNewVersionMessage": true,
+    "files.trimTrailingWhitespace": true,
+    "python.analysis.extraPaths": [
+        "/home/sandee/.virtualenvs/social_computing/lib/python3.8/site-packages/snap_stanford-5.0.0_dev_pop_os20.04_x64_py3.8-py3.8.egg/snap.py",
+        "./17CS10021/"
+    ],
+    "terminal.integrated.inheritEnv": false,
+    "pddlParser.executableOrService": "/home/sandee/.config/Code/User/globalStorage/jan-dolejsi.pddl/val/Val-20200617.2-Linux/bin/Parser",
+    "pddl.validatorPath": "/home/sandee/.config/Code/User/globalStorage/jan-dolejsi.pddl/val/Val-20200617.2-Linux/bin/Validate",
+    "pddl.valueSeqPath": "/home/sandee/.config/Code/User/globalStorage/jan-dolejsi.pddl/val/Val-20200617.2-Linux/bin/ValueSeq",
+    "pddl.valStepPath": "/home/sandee/.config/Code/User/globalStorage/jan-dolejsi.pddl/val/Val-20200617.2-Linux/bin/ValStep",
+    "pddl.selectedPlanner": "http://solver.planning.domains/solve",
+    "editor.renderControlCharacters": true,
+    "python.showStartPage": false,
+    "python.formatting.blackArgs": [
+        "-l 79"
+    ],
+    "rust-client.channel": "stable",
+    "rust.all_features": true,
+    "python.formatting.provider": "yapf",
+    "python.formatting.yapfArgs": [
+        "--style google"
+    ],
+    "go.gopath": "/usr/local/go/bin//go"
+}
